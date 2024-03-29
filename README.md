@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sintosdev
-- 👀 I’m interested in software development 
+- 👀 I’m interested in software
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate soon 
+- 📫 You can reach me on gmail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
